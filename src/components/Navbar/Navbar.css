@@ -1,0 +1,21 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Name {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50vw;
+}
+
+.InternalLinks {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 50vw;
+    align-items: center;
+    font-size: 24px;
+    
+}
+
