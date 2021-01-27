@@ -5,6 +5,8 @@ import PhotosNav from '../PhotosNav/PhotosNav';
 import DSC3300 from '../../assests/DSC3300.jpg';
 import DSC7461 from '../../assests/DSC7461.jpg';
 import DSC2368 from '../../assests/DSC2368.jpg';
+import DSC3343 from '../../assests/DSC3343.jpg';
+import DSC3378 from '../../assests/DSC3378.jpg';
 
 const Flowers = () => {
     return (
@@ -15,6 +17,8 @@ const Flowers = () => {
                 <img src={DSC7461} className='FlowersImages'></img>
                 <img src={DSC3300} className='FlowersImages'></img>
                 <img src={DSC2368} className='FlowersImages'></img>
+                <img src={DSC3343} className='FlowersImages'></img>
+                <img src={DSC3378} className='FlowersImages'></img>
 
             </div>
 
