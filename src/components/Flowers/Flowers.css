@@ -1,0 +1,15 @@
+.Flowers {
+    margin-right:100px;
+    margin-left: 100px;
+}
+
+.FlowersImages {
+    height: 400px;
+    width: auto;
+}
+
+.FlowersDiv {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

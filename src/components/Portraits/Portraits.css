@@ -3,12 +3,12 @@
     margin-left: 100px;
 }
 
-.Images {
+.PortraitImages {
     height: 400px;
     width: auto;
 }
 
-.ImgDiv {
+.PortraitsDiv {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;

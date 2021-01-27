@@ -10,10 +10,10 @@ const Portraits = () => {
         <div className='Portraits'>
             <Navbar />
             <PhotosNav />
-            <div className='ImgDiv'>
-                <img src={DSC2824} className='Images'></img>
-                <img src={DSC3861} className='Images'></img>
-                <img src={DSC5820} className='Images'></img>
+            <div className='PortraitsDiv'>
+                <img src={DSC2824} className='PortraitImages'></img>
+                <img src={DSC3861} className='PortraitImages'></img>
+                <img src={DSC5820} className='PortraitImages'></img>
 
             </div>
 
