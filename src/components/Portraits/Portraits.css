@@ -1,0 +1,15 @@
+.Portraits {
+    margin-right:100px;
+    margin-left: 100px;
+}
+
+.Images {
+    height: 400px;
+    width: auto;
+}
+
+.ImgDiv {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}

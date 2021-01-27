@@ -1,12 +1,12 @@
 import React from 'react'
 import Navbar from '../../components/Navbar/Navbar';
-import PhotosContent from '../../components/PhotosContent/PhotosContent';
+import PhotosNav from '../../components/PhotosNav/PhotosNav';
 
 const Work = () => {
     return (
         <div>
             <Navbar />
-            <PhotosContent />
+            <PhotosNav />
 
         </div>
     )
