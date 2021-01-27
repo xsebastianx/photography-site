@@ -7,7 +7,7 @@ import DSC3300 from '../../assests/DSC3300.jpg';
 
 const Work = () => {
     return (
-        <div>
+        <div className='Work'>
             <Navbar />
             <PhotosNav />
             <img src={DSC3300} className='MainImage'></img>

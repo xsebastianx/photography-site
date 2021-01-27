@@ -12,8 +12,8 @@ const Flowers = () => {
             <Navbar />
             <PhotosNav />
             <div className='FlowersDiv'>
-                <img src={DSC3300} className='FlowersImages'></img>
                 <img src={DSC7461} className='FlowersImages'></img>
+                <img src={DSC3300} className='FlowersImages'></img>
                 <img src={DSC2368} className='FlowersImages'></img>
 
             </div>

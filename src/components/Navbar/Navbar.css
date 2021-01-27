@@ -7,6 +7,8 @@
     display: flex;
     justify-content: space-evenly;
     width: 50vw;
+    font-family: 'Audiowide', cursive;
+    
 }
 
 .InternalLinks {
@@ -16,6 +18,7 @@
     width: 50vw;
     align-items: center;
     font-size: 24px;
+    font-family: 'Caveat', cursive;
     
 }
 

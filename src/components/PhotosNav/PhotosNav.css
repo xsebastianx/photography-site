@@ -2,4 +2,6 @@
     display:flex;
     justify-content: space-evenly;
     list-style: none;
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
 }
