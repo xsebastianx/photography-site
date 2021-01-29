@@ -12,6 +12,7 @@ const Work = () => {
             <PhotosNav />
             <img src={DSC3300} className='MainImage'></img>
 
+
         </div>
     )
 }

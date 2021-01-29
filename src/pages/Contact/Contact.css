@@ -1,4 +1,17 @@
+
+
 .Contact {
     margin-right: 100px;
     margin-left: 100px;
+    
+   
+}
+
+.ContactForm {
+    background-image: url('../../assests/DSC2368.jpg');
+    background-position: center;
+    height: 100vh;
+    padding-top: 100px;
+   
+    
 }

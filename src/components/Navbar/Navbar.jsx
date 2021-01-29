@@ -1,7 +1,8 @@
 import React from 'react';
 import './Navbar.css';
 import { Link } from 'react-router-dom';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faInstagram } from "@fortawesome/free-brands-svg-icons"
 const Navbar = () => {
     return (
         <div className='Navbar'>
@@ -17,6 +18,9 @@ const Navbar = () => {
                 </li>
                 <li>
                     <Link to='/contact' style={{ textDecoration: 'none', color: 'black' }}>Contact</Link>
+                </li>
+                <li>
+                    <a href='https://www.instagram.com/sebastiansaturated/?hl=en' target='_blank'> <FontAwesomeIcon icon={faInstagram} className='InstaLogo' /></a>
                 </li>
             </ul>
         </div>
