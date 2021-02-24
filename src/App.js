@@ -3,7 +3,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-} from "react-router-dom";
+} from 'react-router-dom';
 import Work from './pages/Work/Work';
 import About from './pages/About/About';
 import Contact from './pages/Contact/Contact';
