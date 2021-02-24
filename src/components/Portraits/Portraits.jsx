@@ -15,13 +15,13 @@ const Portraits = () => {
             <Navbar />
             <PhotosNav />
             <div className='PortraitsDiv'>
-                <img src={DSC2824} className='PortraitImages'></img>
-                <img src={DSC3861} className='PortraitImages'></img>
-                <img src={DSC5820} className='PortraitImages'></img>
-                <img src={DSC2793} className='PortraitImages'></img>
-                <img src={DSC2787} className='PortraitImages'></img>
-                <img src={DSC6264} className='PortraitImages'></img>
-                <img src={DSC2718} className='PortraitImages'></img>
+                <img src={DSC2824} alt='portrait photo' className='PortraitImages'></img>
+                <img src={DSC3861} alt='portrait photo' className='PortraitImages'></img>
+                <img src={DSC5820} alt='portrait photo' className='PortraitImages'></img>
+                <img src={DSC2793} alt='portrait photo' className='PortraitImages'></img>
+                <img src={DSC2787} alt='portrait photo' className='PortraitImages'></img>
+                <img src={DSC6264} alt='portrait photo' className='PortraitImages'></img>
+                <img src={DSC2718} alt='portrait photo' className='PortraitImages'></img>
 
             </div>
 

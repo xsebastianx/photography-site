@@ -16,12 +16,12 @@ const Fashion = () => {
             <Navbar />
             <PhotosNav />
             <div className='FashionDiv'>
-                <img src={DSC5750} className='FashionImages'></img>
-                <img src={DSC6818} className='FashionImages'></img>
-                <img src={DSC2710} className='FashionImages'></img>
-                <img src={DSC4579} className='FashionImages'></img>
-                <img src={DSC2831} className='FashionImages'></img>
-                <img src={DSC4049} className='FashionImages'></img>
+                <img src={DSC5750} alt='fashion photo' className='FashionImages'></img>
+                <img src={DSC6818} alt='fashion photo' className='FashionImages'></img>
+                <img src={DSC2710} alt='fashion photo' className='FashionImages'></img>
+                <img src={DSC4579} alt='fashion photo' className='FashionImages'></img>
+                <img src={DSC2831} alt='fashion photo' className='FashionImages'></img>
+                <img src={DSC4049} alt='fashion photo' className='FashionImages'></img>
             </div>
 
         </div>

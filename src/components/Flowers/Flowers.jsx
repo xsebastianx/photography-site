@@ -14,11 +14,11 @@ const Flowers = () => {
             <Navbar />
             <PhotosNav />
             <div className='FlowersDiv'>
-                <img src={DSC7461} className='FlowersImages'></img>
-                <img src={DSC3300} className='FlowersImages'></img>
-                <img src={DSC2368} className='FlowersImages'></img>
-                <img src={DSC3343} className='FlowersImages'></img>
-                <img src={DSC3378} className='FlowersImages'></img>
+                <img src={DSC7461} alt='flower photo' className='FlowersImages'></img>
+                <img src={DSC3300} alt='flower photo' className='FlowersImages'></img>
+                <img src={DSC2368} alt='flower photo' className='FlowersImages'></img>
+                <img src={DSC3343} alt='flower photo' className='FlowersImages'></img>
+                <img src={DSC3378} alt='flower photo' className='FlowersImages'></img>
 
             </div>
 

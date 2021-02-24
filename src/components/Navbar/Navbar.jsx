@@ -20,7 +20,7 @@ const Navbar = () => {
                     <Link to='/contact' style={{ textDecoration: 'none', color: 'black' }}>Contact</Link>
                 </li>
                 <li>
-                    <a href='https://www.instagram.com/sebastiansaturated/?hl=en' target='_blank'> <FontAwesomeIcon icon={faInstagram} className='InstaLogo' /></a>
+                    <a href='https://www.instagram.com/sebastiansaturated/?hl=en' target='_blank' rel='noreferrer'> <FontAwesomeIcon icon={faInstagram} className='InstaLogo' /></a>
                 </li>
             </ul>
         </div>
