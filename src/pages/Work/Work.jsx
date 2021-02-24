@@ -10,7 +10,7 @@ const Work = () => {
         <div className='Work'>
             <Navbar />
             <PhotosNav />
-            <img src={DSC3300} className='MainImage'></img>
+            <img src={DSC3300} alt='flower' className='MainImage'></img>
 
 
         </div>
